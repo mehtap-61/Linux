@@ -10,3 +10,4 @@ Marangoz, E. 2022. Temel Linux Eğitimi, İstanbul Teknik Üniversitesi Ders not
 Meisser,R.2018. Learning Kali Linux: Security Testing, Penetration Testing, and Ethical Hacking, Printed in the United States of America.August 2018, 978-1-492-02869-7.
 
 https://www.fazlakolay.com/temel-linux-komutlari/
+https://www.mku.edu.tr/files/1874-8706d728-075a-4bd3-a1af-67ff8f029605.pdf
