@@ -14,8 +14,6 @@ Linus Torvalds’ın hobi amaçlı çıkarmayı amaçladığı ve bir GNU projes
 
 Linux işletim sisteminde komut penceresi, genellikle “Terminal” olarak adlandırılır ve masaüstünde bulunan “Terminal” simgesine tıklayarak açılabilir. 
 
-Aynı zamanda, “Ctrl + Alt + T” tuş kombinasyonu ile de açılabilir.
-
 Ayrıca uzaktaki sunucular için ise ssh bağlantısı ile erişim sağlayarak komut penceresine erişilebilir.
 
 Eğer uzak bilgisayara linux kurulu bir bilgisayar ile bağlanacaksanız bağlantıyı gerçekleştirmek için ssh kullanici_adi@ip_adresi komutunu kullanabilirsiniz.
