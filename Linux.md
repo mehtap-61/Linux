@@ -20,7 +20,7 @@ Ayrıca uzaktaki sunucular için ise ssh bağlantısı ile erişim sağlayarak k
 
 Eğer uzak bilgisayara linux kurulu bir bilgisayar ile bağlanacaksanız bağlantıyı gerçekleştirmek için ssh kullanici_adi@ip_adresi komutunu kullanabilirsiniz.
 
-Linux, yaygın olarak hem bireyler hem de işletmeler için tercih edilen bir işletim sistemi olmasının nedenleri şunlardır:
+Linux, yaygın olarak hem bireyler hem de işletmeler için tercih edilip kullanılan bir işletim sistemi olmasının nedenleri şunlardır:
 
 **Açık Kaynaklılık**: Linux, herkesin inceleyip değiştirebileceği bir kaynak koduna sahiptir. Bu, şeffaflık ve özelleştirme imkanı sunar.
 
