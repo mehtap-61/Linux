@@ -19,3 +19,19 @@ Linux işletim sisteminde komut penceresi, genellikle “Terminal” olarak adla
 Ayrıca uzaktaki sunucular için ise ssh bağlantısı ile erişim sağlayarak komut penceresine erişilebilir.
 
 Eğer uzak bilgisayara linux kurulu bir bilgisayar ile bağlanacaksanız bağlantıyı gerçekleştirmek için ssh kullanici_adi@ip_adresi komutunu kullanabilirsiniz.
+
+Linux, yaygın olarak hem bireyler hem de işletmeler için tercih edilen bir işletim sistemi olmasının nedenleri şunlardır:
+
+**Açık Kaynaklılık**: Linux, herkesin inceleyip değiştirebileceği bir kaynak koduna sahiptir. Bu, şeffaflık ve özelleştirme imkanı sunar.
+
+**Güvenlik**: Linux, diğer işletim sistemlerine göre daha güvenli kabul edilir. İyi yapılandırıldığında, kötü amaçlı yazılımlara karşı dayanıklıdır.
+
+**Stabilite ve Performans**: Linux, yüksek performans sunar ve uzun süre kesintisiz çalışabilir. Bu nedenle, sunucu ortamlarında yaygın olarak kullanılır.
+
+**Topluluk Desteği**: Geniş bir kullanıcı ve geliştirici topluluğu vardır. Sorunlarınızı çözmek veya bilgi almak için çeşitli forumlar ve kaynaklar bulabilirsiniz.
+
+**Ücretsiz Kullanım**: Çoğu Linux dağıtımı ücretsizdir. Bu, hem bireysel kullanıcılar hem de işletmeler için maliyet avantajı sağlar.
+
+**Çeşitlilik**: Farklı ihtiyaçlara yönelik birçok dağıtım mevcut olması nedeniyle kullanıcılar, kendi tercihlerine ve ihtiyaçlarına uygun bir dağıtım seçebilir.
+
+**Geliştiriciler için İyi Bir Seçim**: Geliştiriciler için güçlü bir ortam sunar ve birçok programlama dili ve araç, Linux üzerinde sorunsuz çalışır.
