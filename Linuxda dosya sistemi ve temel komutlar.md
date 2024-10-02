@@ -2,7 +2,7 @@
 
 ![Linux_Dosya_Yapisi](https://github.com/user-attachments/assets/88982088-1b96-4fc2-abae-66ea5d9dc43f)
 
-Disk üzerindeki dosyaların düzenlenmesini ve bir işletim sisteminde dosyaların izlerinin bulunmasını sağlayan yapıya denir. 
+Disk üzerindeki dosyaların düzenlenmesini ve bir işletim sisteminde dosyaların izlerinin bulunmasını sağlayan yapıya denir.
 
 Linux işletim sisteminde de dosya ve dizinler diğer Unix türevi işletim sistemlerinde olduğu gibi hiyerarşik yapıya sahiptir. En üst düzeyde olan kök dizini olarak adlandırılan dizin, alt dizinleri içermektedir.
 
